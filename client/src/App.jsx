@@ -15,9 +15,7 @@ const App = () => {
             <ChannelListContainer
             
             />
-            {/* <ChannelListContainer
             
-            /> */}
         </Chat>
     </div>
   )
